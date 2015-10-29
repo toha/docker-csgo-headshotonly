@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"Headshot enabled"
+	{
+		"en"			"Headshots ONLY has been ENABLED!"
+	}
+	"Headshot disabled"
+	{
+		"en"			"Headshots ONLY has been DISABLED!"
+	}
+}
